@@ -16,5 +16,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::apiResource('item-masters', ItemMaster::class);
+
 Route::apiResource('transactions', TransactionController::class);
